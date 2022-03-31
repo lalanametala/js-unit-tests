@@ -1,6 +1,8 @@
 ## ES6 and JS Unit Tests Project
 
-### About the project
+### About
+This is a project from [Trybe](https://www.betrybe.com/)'s Web Development Course - Principles of Web Development Module.
+
 Unit tests are essential for creating quality features. Learning what they are and how they should be implemented is essential for software developers.
 In this project, I made the implementation of various functions to meet the proposed requirements and/or unit tests to ensure that the implementations of the functions are correct.
 
